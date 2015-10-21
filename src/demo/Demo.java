@@ -21,6 +21,10 @@ public class Demo {
             System.out.println("i" + i);
         }
         System.out.println("xcxc");
+        if(true)
+        {
+            
+        }
     }
 
 }
