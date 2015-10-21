@@ -24,6 +24,7 @@ public class Demo {
         if(true)
         {
             System.out.println("bbbbb");
+            
         }
     }
 
